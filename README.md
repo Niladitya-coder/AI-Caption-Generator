@@ -8,8 +8,9 @@ An AI-powered web application built with React that generates creative social me
 - Responsive and stylish UI with animations.
 - Easy-to-use interface with real-time caption generation.
 
-## 🚀 Demo
-![Demo GIF](https://user-images.githubusercontent.com/demo.gif) <!-- Add a GIF or screenshot of your app -->
+## 🌐 Live Demo
+[Click here to view the project on Vercel 🚀](https://ai-caption-generator-roan.vercel.app/)
+
 
 ## 🛠️ Technologies Used
 - **React** - Frontend framework
