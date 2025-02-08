@@ -24,8 +24,8 @@ function CaptionGenerator() {
 
   return (
     <div className="container">
-        <h1>TRENDTALES</h1>
-      <h2>Social Media Caption Generator</h2>
+        <h1>AI CAPTION GENERATOR</h1>
+      <h2>Generate Captions for your Social Media Posts!</h2>
       <input
         type="text"
         placeholder="Enter keywords"
