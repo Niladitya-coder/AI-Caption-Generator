@@ -1,6 +1,6 @@
 # AI Caption Generator
 
-An AI-powered web application built with React that generates creative social media captions based on user-provided keywords or uploaded images. The app leverages Google Gemini API for generating captions.
+An AI-powered web application built with React that generates creative social media captions based on user-provided keywords. The app leverages Google Gemini API for generating captions.
 
 ## 🌟 Features
 - Generate captions based on user-provided keywords.
