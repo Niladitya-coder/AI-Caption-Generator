@@ -4,7 +4,6 @@ An AI-powered web application built with React that generates creative social me
 
 ## 🌟 Features
 - Generate captions based on user-provided keywords.
-- Upload an image to generate context-based captions.
 - Responsive and stylish UI with animations.
 - Easy-to-use interface with real-time caption generation.
 
